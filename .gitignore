@@ -1,0 +1,24 @@
+# Binary files
+MDK-ARM/bin/*
+MDK-ARM/RMCB_2022_Dev/*
+*.lst
+
+# User-specific GUI config
+*.uvguix*
+
+# Debug config
+MDK-ARM/DebugConfig/*
+
+# Temp files
+*.TMP
+*.tmp
+
+# STM32CubeMX files
+.mxproject
+
+# large data files
+data
+
+# unwanted IDE folders
+.vscode/
+.idea/
